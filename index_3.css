@@ -1,0 +1,9 @@
+main {
+  min-height: calc(100% - 53px);
+
+  padding-bottom: 85px;
+}
+
+footer {
+  margin-top: -85px;
+}
